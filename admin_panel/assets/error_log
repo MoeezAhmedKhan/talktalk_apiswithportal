@@ -1,0 +1,166 @@
+[28-May-2022 06:30:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 195
+[10-Jun-2022 16:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 153
+[10-Jun-2022 16:48:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 154
+[10-Jun-2022 16:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 161
+[18-Jun-2022 07:25:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 24
+[18-Jun-2022 07:40:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sassolut/beyond.sassolution.org/admin_panel/assets/Actions.php on line 24
+[24-Jun-2022 10:09:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sassolut/public_html/jared/admin_panel/assets/Actions.php:204) in /home/sassolut/public_html/jared/admin_panel/assets/Actions.php on line 215
+[24-Jun-2022 10:12:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sassolut/public_html/jared/admin_panel/assets/Actions.php:211) in /home/sassolut/public_html/jared/admin_panel/assets/Actions.php on line 215
+[25-Oct-2022 08:45:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:263
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(263): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 263
+[25-Oct-2022 08:45:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:263
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(263): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 263
+[25-Oct-2022 08:55:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sassolut_chanti.specials_cateogries' doesn't exist in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:39
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 39
+[25-Oct-2022 08:55:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sassolut_chanti.specials_cateogries' doesn't exist in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:39
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 39
+[25-Oct-2022 08:57:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sassolut_chanti.specials_cateogries' doesn't exist in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:39
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 39
+[25-Oct-2022 08:57:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sassolut_chanti.specials_cateogries' doesn't exist in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:39
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 39
+[25-Oct-2022 08:57:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sassolut_chanti.specials_cateogries' doesn't exist in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:39
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 39
+[25-Oct-2022 09:00:40 UTC] PHP Warning:  Undefined array key "name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[25-Oct-2022 09:00:40 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[25-Oct-2022 09:00:40 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[25-Oct-2022 09:01:18 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[25-Oct-2022 09:01:18 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[25-Oct-2022 09:04:54 UTC] PHP Warning:  Undefined variable $email in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 260
+[25-Oct-2022 09:04:54 UTC] PHP Warning:  Undefined variable $status in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 260
+[25-Oct-2022 09:05:15 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[25-Oct-2022 09:05:15 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[25-Oct-2022 09:05:56 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[25-Oct-2022 09:05:56 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[25-Oct-2022 09:06:30 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[25-Oct-2022 09:06:30 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[28-Oct-2022 02:53:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Questions' WHERE `id`='12'' at line 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:279
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(279): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 279
+[01-Nov-2022 17:11:55 UTC] PHP Warning:  Undefined array key "name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[01-Nov-2022 17:11:55 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[01-Nov-2022 17:11:55 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[30-Nov-2022 13:50:53 UTC] PHP Warning:  Undefined array key "name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[30-Nov-2022 13:50:53 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[30-Nov-2022 13:50:53 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[30-Nov-2022 13:51:27 UTC] PHP Warning:  Undefined array key "name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[30-Nov-2022 13:51:27 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[30-Nov-2022 13:51:27 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[30-Nov-2022 13:52:44 UTC] PHP Warning:  Undefined array key "name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 256
+[30-Nov-2022 13:52:44 UTC] PHP Warning:  Undefined array key "email" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 257
+[30-Nov-2022 13:52:44 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 258
+[01-Dec-2022 06:49:03 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 06:49:11 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:22:58 UTC] PHP Warning:  Undefined array key "answer" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:22:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:25:37 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:25:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:27:13 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:27:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:29:42 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:29:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:38:10 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:38:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:39:12 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:39:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 08:40:19 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 08:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `sassolut_chanti`.`questions`.`category_id` at row 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[01-Dec-2022 15:03:41 UTC] PHP Warning:  Undefined array key "id" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 269
+[01-Dec-2022 15:03:47 UTC] PHP Warning:  Undefined array key "id" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 269
+[01-Dec-2022 15:54:58 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 270
+[01-Dec-2022 15:54:58 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 15:55:20 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 270
+[01-Dec-2022 15:55:20 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 16:01:13 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 270
+[01-Dec-2022 16:01:13 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 16:02:29 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 270
+[01-Dec-2022 16:02:29 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[01-Dec-2022 16:02:47 UTC] PHP Warning:  Undefined array key "question" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 270
+[01-Dec-2022 16:02:47 UTC] PHP Warning:  Undefined array key "category_name" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 271
+[02-Dec-2022 06:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Content here, content here',',`category_id`= '15' WHERE `id`= '177'' at line 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:277
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(277): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 277
+[02-Dec-2022 07:27:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't look even slightly believable. If you are going to use a passage of Lorem I...' at line 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:281
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(281): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 281
+[14-Jan-2023 08:37:23 UTC] PHP Warning:  Undefined variable $con in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 159
+[14-Jan-2023 08:37:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:159
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(159): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 159
+[14-Jan-2023 08:43:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `privelages_bt` SET `status`= 'active' WHERE `user_id`= 125' at line 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:160
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(160): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 160
+[14-Jan-2023 08:43:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE `privelages_bt` SET `status`= 'active' WHERE `user_id`= 125' at line 1 in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php:160
+Stack trace:
+#0 /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php(160): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 160
+[17-Jan-2023 07:48:21 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 157
+[17-Jan-2023 07:54:49 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 07:57:26 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:16:47 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:21:26 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:25:28 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:25:50 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:47:14 UTC] PHP Warning:  Undefined array key "status" in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 08:59:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
+[17-Jan-2023 09:00:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/sassolut/public_html/chanti/admin_panel/assets/Actions.php on line 161
